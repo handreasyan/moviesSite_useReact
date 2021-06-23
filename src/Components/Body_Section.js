@@ -9,11 +9,8 @@ export function BodySection() {
       <div className={'container'}>
         <main className={'main'}>
           <LeftContent />
-
-          <Route component={FilmEdit} path={'/film/'}/>
-          <Route  component={RightContent} path={'/home'}/>
-
-
+          <Route  component={FilmEdit} path={'/film/'}/>
+          <Route exact  component={RightContent} path={'/home'}  />
         </main>
       </div>
     </section>

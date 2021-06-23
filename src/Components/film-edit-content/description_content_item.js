@@ -5,8 +5,6 @@ import {
 } from "../../features/rightContent/editFilmPage/get-film-by-idSlice";
 
 export function DescriptionContentItem({filmData,data}) {
-  console.log(filmData)
-  console.log(data)
 
   const countries = useSelector(SelectCurrentFilmCountryNames);
   const propsNames = useSelector(SelectCurrentFilmPropsNames)

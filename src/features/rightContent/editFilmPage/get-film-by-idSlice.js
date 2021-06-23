@@ -122,7 +122,6 @@ export function updateCurrentFilmAC(data){
 export function getFilmByIdAC(id){
   return (dispatch,getState)=> {
     getFilmById(id).then(res=>{
-      console.log(res)
       dispatch(updateCurrentFilmAC(res))
     })
   }

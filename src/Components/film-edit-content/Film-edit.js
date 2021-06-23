@@ -17,7 +17,6 @@ export function FilmEdit() {
 
       <div className="description_content">
         {filmDataArr.map((el, i) => {
-          console.log(el,filmData)
           return <DescriptionContentItem data={el} filmData={filmData} key={el}/>
         })}
       </div>

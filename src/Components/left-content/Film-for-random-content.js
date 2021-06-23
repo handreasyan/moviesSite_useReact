@@ -8,9 +8,8 @@ export function FilmForRandom({film}) {
     <div data-movie-id={film.id} className='film_name'
          onClick={(event)=>{
            dispatch(getFilmByIdAC(film.id))
-           console.log(event.currentTarget.dataset.movieId)
          }} >
-      <NavLink to={`/film/id=${film.id}`}>
+      <NavLink to={`/film/id=${film.id}`} style={{width:'100%',display:'inline-block'}}>
         {film.title}
       </NavLink>
     </div>
