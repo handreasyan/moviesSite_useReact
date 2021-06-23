@@ -5,8 +5,8 @@ import {BodySection} from "./Components/Body_Section";
 function App() {
   return (
     <div className="App">
-      <Header />
-      <BodySection />
+      <Header/>
+      <BodySection/>
     </div>
   );
 }

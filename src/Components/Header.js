@@ -1,4 +1,6 @@
-//import '../styles/App.css'
+import logo from '../logo.png'
+
+import {NavLink} from "react-router-dom";
 
 export function Header() {
   return (
@@ -6,7 +8,7 @@ export function Header() {
       <div className="container">
         <div className="header">
           <div className="logo_content">
-            <a href="index.html"><img src="./logo.png" alt="Logo_img"/></a>
+            <NavLink href="index.html" to={'/home'}><img src={logo} alt="Logo_img"/></NavLink>
           </div>
         </div>
       </div>
