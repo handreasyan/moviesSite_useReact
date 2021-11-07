@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/handreasyan/moviesSite_useReact/static/css/main.a9aacac2.chunk.css",
+    "main.js": "/handreasyan/moviesSite_useReact/static/js/main.59cf3de3.chunk.js",
+    "main.js.map": "/handreasyan/moviesSite_useReact/static/js/main.59cf3de3.chunk.js.map",
+    "runtime-main.js": "/handreasyan/moviesSite_useReact/static/js/runtime-main.927cc179.js",
+    "runtime-main.js.map": "/handreasyan/moviesSite_useReact/static/js/runtime-main.927cc179.js.map",
+    "static/js/2.40f2324d.chunk.js": "/handreasyan/moviesSite_useReact/static/js/2.40f2324d.chunk.js",
+    "static/js/2.40f2324d.chunk.js.map": "/handreasyan/moviesSite_useReact/static/js/2.40f2324d.chunk.js.map",
+    "static/js/3.65e56126.chunk.js": "/handreasyan/moviesSite_useReact/static/js/3.65e56126.chunk.js",
+    "static/js/3.65e56126.chunk.js.map": "/handreasyan/moviesSite_useReact/static/js/3.65e56126.chunk.js.map",
+    "index.html": "/handreasyan/moviesSite_useReact/index.html",
+    "static/css/main.a9aacac2.chunk.css.map": "/handreasyan/moviesSite_useReact/static/css/main.a9aacac2.chunk.css.map",
+    "static/js/2.40f2324d.chunk.js.LICENSE.txt": "/handreasyan/moviesSite_useReact/static/js/2.40f2324d.chunk.js.LICENSE.txt",
+    "static/media/logo.6e98d1ff.png": "/handreasyan/moviesSite_useReact/static/media/logo.6e98d1ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.927cc179.js",
+    "static/js/2.40f2324d.chunk.js",
+    "static/css/main.a9aacac2.chunk.css",
+    "static/js/main.59cf3de3.chunk.js"
+  ]
+}
